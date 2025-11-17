@@ -3,6 +3,7 @@ For this project, I used a publicly available dataset focused on heart disease p
 good fit for testing a range of machine learning models. It also had a final label—either 0 (no heart disease) or 1 (heart disease)—which turned this into a classic binary classification task. That said, like most real-world healthcare datasets, it wasn’t perfect. There were some missing values and a bit of imbalance in the target variable. I handled all that in the preprocessing step.
 
 Here’s what I wanted this project to achieve:
+
 ● Use various machine learning models to predict the risk of heart disease.
 
 ● Evaluate how these models perform using metrics like accuracy, recall, and precision.
