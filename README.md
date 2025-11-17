@@ -4,9 +4,12 @@ good fit for testing a range of machine learning models. It also had a final lab
 
 Here’s what I wanted this project to achieve:
 ● Use various machine learning models to predict the risk of heart disease.
+
 ● Evaluate how these models perform using metrics like accuracy, recall, and precision.
-● Compare simpler models (like Random Forest) with more complex ones (like
-TabTransformer).
+
+● Compare simpler models (like Random Forest) with more complex ones (like TabTransformer).
+
 ● Apply SHAP and LIME to interpret model predictions and understand which features
 are most influential.
+
 ● Reflect on the trade-off between accuracy and interpretability in healthcare use cases.
